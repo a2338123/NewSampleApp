@@ -7,6 +7,7 @@ ruby '2.3.1'
 gem 'rails', '~> 5.2.2'
 gem 'bootstrap-sass', '3.3.6'
 gem 'rails-controller-testing'
+gem 'bcrypt', '~> 3.1.11'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.3.6'
 # Use Puma as the app server
