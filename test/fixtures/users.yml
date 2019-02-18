@@ -1,1 +1,4 @@
-# empty
+asdasd:
+  name: FirstAdmin
+  email: asdasd@qq.com
+  password_digest: <%= User.digest('password') %>
